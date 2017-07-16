@@ -1,3 +1,3 @@
 # Hello-world
-My names is Biswas Tiwari
+My name is Biswas Tiwari
 I am 20 years old
